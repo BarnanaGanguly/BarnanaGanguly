@@ -4,9 +4,12 @@
 
 👋 Hi there! I'm Barnana Ganguly, a data scientist with 5 years of professional experience. I'm dedicated to transforming data into actionable insights and spearheading innovation.
 
-[![Linkedin Badge](https://img.shields.io/badge/-BarnanaGanguly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barnanaganguly/)](https://www.linkedin.com/in/barnanaganguly/)
+<a href="https://www.linkedin.com/in/barnanaganguly/">
+    <img src="https://img.shields.io/badge/-BarnanaGanguly-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge" style="transform: scale(1.5);"/>
+</a>
 
 </div>
+
 
 
 ## 🎓 Education

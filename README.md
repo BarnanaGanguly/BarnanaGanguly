@@ -15,29 +15,30 @@ I'm an analytics enthusiast passionate about turning data into actionable insigh
 🛠️ **Technical Skills**
 - 💼 **Software**: MS Suite, Tableau
 - 💻 **Languages**: R, SQL, Python
-- 📜 **Certification**: FRM Level 1
+- 📜 **Certifications**: FRM Level 1
 
-🔭 **Experience Highlights**
+🔭 **Experience**
 
-**🍔Uber Eats (Senior Regional Analytics Manager, APAC)**
-- Utilized **Survival Analysis** (Accelerated Failure Time models) to pinpoint High-Quality Delivery Partners.
-- Predicted churn probabilities, resulting in a **58% rise in incremental supply hours** via proactive incentives.
+**🍔Uber – Senior Regional Analytics Manager, Uber Eats APAC, Gurgaon, India** 
+_November 2022 - June 2023_
+- Implemented data-driven approach utilizing Survival Analysis (Accelerated Failure Time models) to identify High-Quality Delivery Partners (DPs) and predict probability of churn in a customized timeframe, which subsequently delivered a 58% increase in incremental supply hours through targeted and proactive incentives.
 
-**💳American Express (Assistant Manager, Loyalty Analytics)**
-- Built a trigger model targeting reward points hoarders across 10+ markets using **XGBoost**.
-- Achieved a **3.5x higher activation rate** and captured 94% of hoarder redemptions.
-- Post-COVID investment optimization using uplift modeling led to a **67% surge in conversion rate** for High Impact customers.
-- Orchestrated the Apple and Dell Gift Card Campaign, driving a **375% sales lift** for tech merchants, bolstering Amex's ROI by an estimated 30%.
+**💳American Express – Assistant Manager, Loyalty Analytics, Gurgaon, India** 
+_January 2020 - July 2022_
+- Developed a trigger model targeting reward points hoarders in 10+ international markets (utilizing XGBoost and k-fold cross-validation) and deployed tailored marketing campaigns resulting in a 3.5x higher activation rate for hoarders and capturing 94% of hoarder redemptions in test data.
+- Performed investment optimization campaign post COVID-19, employing uplift modeling and multi-class XGBoost to reallocate the $17M marketing budget, resulting in a 67% higher conversion rate for High Impact customers.
+- Executed the Apple and Dell Gift Card Campaign 2021, driving a ~375% lift in face value sales for tech merchants, leading to negotiation of a revised cost split (90-10 in favor of Amex) for future campaigns and an estimated ~30% increase in American Express' return on investment (ROI).
 
-**🏦HDFC Bank (Manager, Credit Analytics and Innovation)**
-- Designed an **anomaly detection system for credit card fraud** using algorithms like KNN, Random Forest, and XGBoost.
-- Attained an impressive **accuracy of 89%** in identifying fraudulent transactions.
+**🏦HDFC Bank – Manager, Credit Analytics and Innovation, Mumbai, India** 
+_March 2019 - January 2020_
+- Developed an anomaly detection system for credit card fraud, utilizing multiple supervised training algorithms (K Nearest Neighbors, Random Forest, Isolation Forest, and XGBoost) to identify fraudulent transactions across different use cases with a maximum accuracy of 89%.
 
-**🌍PwC US (Associate, Consulting)**
-- Formulated commercial analytics strategy for a global pharmaceutical client using R and Tableau.
-- Generated a staggering **$160M in incremental revenue in 1.5 years** through targeted marketing.
+**🌍Pricewaterhouse Coopers (PwC) US – Associate, Consulting, Mumbai, India** 
+_July 2017 - November 2018_
+- Built commercial analytics strategy for global pharmaceutical client, leveraging advanced analytics tools (R and Tableau) to generate $160M incremental revenue in 1.5 years through targeted physician marketing using sophisticated algorithms and impactful visualizations.
 
 📢 "I firmly believe in the power of data to make the world a better place, one decision at a time. Let's make magic with data! 🌟"
 
-📫 How to reach me: [Email me!](mailto:barnanaganguly@email.com)
-
+📫 How to reach me: 
+- 📧 barnanaganguly@email.com
+- 📧 barnana.ganguly@utexas.edu

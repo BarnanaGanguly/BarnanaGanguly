@@ -1,9 +1,13 @@
 <div align="center">
-  <h1>📊 Chronicles of a Data Sorcerer 🚀</h1>
-  <p>👋 Hi there! I'm Barnana Ganguly, a data scientist with 5 years of professional experience. I'm dedicated to transforming data into actionable insights and spearheading innovation.</p>
-   [![Linkedin Badge](https://img.shields.io/badge/-BarnanaGanguly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barnanaganguly/)](https://www.linkedin.com/in/barnanaganguly/)
+
+# 📊 Chronicles of a Data Sorcerer 🚀
+
+👋 Hi there! I'm Barnana Ganguly, a data scientist with 5 years of professional experience. I'm dedicated to transforming data into actionable insights and spearheading innovation.
+
+[![Linkedin Badge](https://img.shields.io/badge/-BarnanaGanguly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barnanaganguly/)](https://www.linkedin.com/in/barnanaganguly/)
 
 </div>
+
 
 ## 🎓 Education
 

@@ -18,10 +18,10 @@ With **5 years of professional experience** in Data Science, I'm dedicated to tr
 - 📜 **Certifications**: FRM Level 1
 
 🔭 **Experience**
-** 🍔 Uber** – Senior Regional Analytics Manager, Uber Eats APAC  
-** 💳 American Express** – Assistant Manager, Loyalty Analyticsa   
-** 🏦 HDFC Bank** – Manager, Credit Analytics and Innovation  
-** 🌍 Pricewaterhouse Coopers (PwC)** US – Associate, Consulting   
+**🍔Uber** – Senior Regional Analytics Manager, Uber Eats APAC    
+**💳American Express** – Assistant Manager, Loyalty Analytics     
+**🏦HDFC Bank** – Manager, Credit Analytics and Innovation    
+**🌍Pricewaterhouse Coopers (PwC)** US – Associate, Consulting     
 
 📢 "I firmly believe in the power of data to make the world a better place, one decision at a time. Let's make magic with data! 🌟"
 

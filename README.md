@@ -26,7 +26,7 @@
 - <img src="https://github.com/BarnanaGanguly/BarnanaGanguly/blob/3f09cc480396e19b6b25cb7656a4e91a33ed5247/Uber_Logo.png" width="50"> **Uber** – Senior Regional Analytics Manager, Uber Eats APAC
 - <img src="https://github.com/BarnanaGanguly/BarnanaGanguly/blob/3f09cc480396e19b6b25cb7656a4e91a33ed5247/Amex_Logo.png" width="50"> **American Express** – Assistant Manager, Loyalty Analytics
 - <img src="https://github.com/BarnanaGanguly/BarnanaGanguly/blob/3f09cc480396e19b6b25cb7656a4e91a33ed5247/HDFC_Logo.png" width="50"> **HDFC Bank** – Manager, Credit Analytics and Innovation
-- <img src="https://github.com/BarnanaGanguly/BarnanaGanguly/blob/d88f5445b911f4022f7e59118d0d709fb4601e22/PwC_Logo.png" width="50"> **Pricewaterhouse Coopers (PwC)** US – Associate, Consulting
+- <img src="https://github.com/BarnanaGanguly/BarnanaGanguly/blob/2d77e9461b3a7358af246b16b019abbd1e75e450/PwC_Logo.png" width="50"> **Pricewaterhouse Coopers (PwC)** US – Associate, Consulting
 
 
 

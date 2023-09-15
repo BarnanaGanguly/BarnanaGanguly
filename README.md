@@ -12,7 +12,7 @@
 ## 🎓 Education
 
 - **MS in Business Analytics @ UT Austin**
-  - 🎓 Courses: Advanced Machine Learning, Financial Management, Time Series, and more!
+  - 🎓 Courses: Advanced Machine Learning, Analytics for Unstructured data, Advanced Optimization, Time Series, and more!
 
 - **MS in Economics @ Indira Gandhi Institute of Development Research**
   - 🎓 Courses: Applied Econometrics, Financial Econometrics, Time Series, and more!

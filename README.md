@@ -1,6 +1,6 @@
 <div align="center">
   <h1>📊 Chronicles of a Data Sorcerer 🚀</h1>
-  <p>👋 Hi there! I'm Barnana Ganguly, a data enthusiast with a penchant for all things geeky and a mission to turn data into actionable insights.</p>
+  <p>👋 Hi there! I'm Barnana Ganguly, a data scientist with **5 years of professional experience**. I'm dedicated to transforming data into actionable insights and spearheading innovation spearheading innovation.</p>
   <p>🌐 Connect with me on <a href="https://www.linkedin.com/in/barnanaganguly/" target="_blank">LinkedIn</a>!</p>
 </div>
 

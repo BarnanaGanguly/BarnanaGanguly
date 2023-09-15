@@ -49,12 +49,6 @@
 - **A Song of Ice and Fire Series by George R.R. Martin:** "A mind needs books as a sword needs a whetstone."
 - **The Inheritance Cycle by Christopher Paolini:** "Live in the present, remember the past, and fear not the future."
 
-## 💻 Data & Coding
-
-When I'm not exploring these captivating worlds, I'm deep into the realm of data and coding. Feel free to connect with me if you want to chat about data analysis, algorithms, or even engage in a lively debate about who the strongest Jedi is!
-
-📧 Reach out to me: [Your Email Address](mailto:youremail@example.com)
-
----
+Feel free to connect with me if you want to chat about data analysis, algorithms, or even engage in a lively debate about who the strongest Jedi is!
 
 <p align="center">May the code be with you! 🚀</p>

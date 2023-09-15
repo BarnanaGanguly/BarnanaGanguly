@@ -19,16 +19,10 @@ With **5 years of professional experience** in Data Science, I'm dedicated to tr
 
 🔭 **Experience**
 
-**🍔Uber – Senior Regional Analytics Manager, Uber Eats APAC, Gurgaon, India** 
-**( November 2022 - June 2022 )**
-**💳American Express – Assistant Manager, Loyalty Analytics, Gurgaon, India** 
-**( January 2020 - July 2022 )**
-
-**🏦HDFC Bank – Manager, Credit Analytics and Innovation, Mumbai, India** 
-**( March 2019 - January 2020 )**
-
-**🌍Pricewaterhouse Coopers (PwC) US – Associate, Consulting, Mumbai, India** 
-**( July 2017 - November 2018 )**
+**🍔Uber – Senior Regional Analytics Manager, Uber Eats APAC, Gurgaon, India ( November 2022 - June 2022 )**  
+**💳American Express – Assistant Manager, Loyalty Analytics, Gurgaon, India ( January 2020 - July 2022 )**  
+**🏦HDFC Bank – Manager, Credit Analytics and Innovation, Mumbai, India ( March 2019 - January 2020 )**  
+**🌍Pricewaterhouse Coopers (PwC) US – Associate, Consulting, Mumbai, India ( July 2017 - November 2018 )**  
 
 📢 "I firmly believe in the power of data to make the world a better place, one decision at a time. Let's make magic with data! 🌟"
 

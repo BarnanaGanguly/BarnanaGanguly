@@ -1,47 +1,39 @@
-# Hi there 👋, I'm Barnana Ganguly!
+<div align="center">
+  <h1>📊 Data Sorcerer with a Dash of Geekiness 🚀</h1>
+  <p>👋 Hi there! I'm Barnana Ganguly, a data enthusiast with a penchant for all things geeky and a mission to turn data into actionable insights.</p>
+  <p>🌐 Connect with me on <a href="https://www.linkedin.com/in/barnanaganguly/" target="_blank">LinkedIn</a>!</p>
+</div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-BarnanaGanguly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barnanaganguly/)](https://www.linkedin.com/in/barnanaganguly/)
+## 🎓 Education
 
-With **5 years of professional experience** in Data Science, I'm dedicated to transforming data into actionable insights and spearheading innovation. 🚀✨
+- **MS in Business Analytics @ UT Austin**
+  - 🎓 Courses: Advanced Machine Learning, Financial Management, Time Series, and more!
 
-🏫 **Education**
-- 📊 MS in Business Analytics @ **UT Austin**
-  
-    - 🎓 Courses: Advanced Machine Learning, Financial Management, Time Series and more!
-      
-- 📈 MS in Economics @ **Indira Gandhi Institute of Development Research**
-  
-    - 🎓 Courses: Applied Econometrics, Financial Econometrics, Time Series and more!
-      
-- 📚 BSc in Economics @ **Presidency University**
-  
-    - 🎓 Courses: Econometrics, Mathematics, Statistics, Microeconomics, Macroeconomics and more!
-      
+- **MS in Economics @ Indira Gandhi Institute of Development Research**
+  - 🎓 Courses: Applied Econometrics, Financial Econometrics, Time Series, and more!
 
-🛠️ **Technical Skills**
+- **BSc in Economics @ Presidency University**
+  - 🎓 Courses: Econometrics, Mathematics, Statistics, Microeconomics, Macroeconomics, and more!
+
+## 🛠️ Technical Skills
 
 - 💼 **Software**: MS Suite, Tableau
-  
 - 💻 **Languages**: R, SQL, Python
-  
 - 📜 **Certifications**: FRM Level 1
 
-🔭 **Experience**
+## 🔭 Experience
 
-**🍔Uber** – Senior Regional Analytics Manager, Uber Eats APAC  
-
-**💳American Express** – Assistant Manager, Loyalty Analytics  
-
-**🏦HDFC Bank** – Manager, Credit Analytics and Innovation    
-
-**🌍Pricewaterhouse Coopers (PwC)** US – Associate, Consulting   
-
+- **🍔 Uber** – Senior Regional Analytics Manager, Uber Eats APAC
+- **💳 American Express** – Assistant Manager, Loyalty Analytics
+- **🏦 HDFC Bank** – Manager, Credit Analytics and Innovation
+- **🌍 Pricewaterhouse Coopers (PwC)** US – Associate, Consulting
 
 📢 "I firmly believe in the power of data to make the world a better place, one decision at a time. Let's make magic with data! 🌟"
 
-📫 How to reach me: 
-- 📧 barnanaganguly@email.com
-- 📧 barnana.ganguly@utexas.edu
+📫 How to reach me:
+- 📧 Email: barnanaganguly@email.com
+- 📧 University Email: barnana.ganguly@utexas.edu
+</div>
 
 <div align="center">
   <h1>📖 Balancing Bytes and Books: Journey Beyond the Data! 📚</h1>

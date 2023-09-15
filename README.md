@@ -23,10 +23,11 @@
 
 ## 🔭 Experience
 
-- **🍔 Uber** – Senior Regional Analytics Manager, Uber Eats APAC
-- **💳 American Express** – Assistant Manager, Loyalty Analytics
-- **🏦 HDFC Bank** – Manager, Credit Analytics and Innovation
-- **🌍 Pricewaterhouse Coopers (PwC)** US – Associate, Consulting
+- ![Uber Logo](Uber_Logo.png) **Uber** – Senior Regional Analytics Manager, Uber Eats APAC
+- ![Amex Logo](Amex_Logo.png) **American Express** – Assistant Manager, Loyalty Analytics
+- ![HDFC Logo](HDFC_Logo.png) **HDFC Bank** – Manager, Credit Analytics and Innovation
+- ![PwC Logo](PwC_Logo.png) **Pricewaterhouse Coopers (PwC)** US – Associate, Consulting
+
 
 📢 "I firmly believe in the power of data to make the world a better place, one decision at a time. Let's make magic with data! 🌟"
 

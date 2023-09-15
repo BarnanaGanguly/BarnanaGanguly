@@ -20,7 +20,7 @@ With **5 years of professional experience** in Data Science, I'm dedicated to tr
 🔭 **Experience**
 
 **🍔Uber – Senior Regional Analytics Manager, Uber Eats APAC, Gurgaon, India** 
-**( November 2022 - June 202 )**
+**( November 2022 - June 2022 )**
 - Implemented data-driven approach utilizing Survival Analysis (Accelerated Failure Time models) to identify High-Quality Delivery Partners (DPs) and predict probability of churn in a customized timeframe, which subsequently delivered a 58% increase in incremental supply hours through targeted and proactive incentives.
 
 **💳American Express – Assistant Manager, Loyalty Analytics, Gurgaon, India** 

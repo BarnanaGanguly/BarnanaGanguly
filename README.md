@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-BarnanaGanguly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barnanaganguly/)](https://www.linkedin.com/in/barnanaganguly/)
 
-I'm an analytics enthusiast passionate about turning data into actionable insights and driving innovation! 🚀✨
+With **5 years of professional experience** in Data Science, I'm dedicated to transforming data into actionable insights and spearheading innovation. 🚀✨
 
 🏫 **Education**
 - 📊 MS in Business Analytics @ **UT Austin**

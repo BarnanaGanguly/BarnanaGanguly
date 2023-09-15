@@ -41,7 +41,9 @@
 
 <div align="center">
   <h1>📖 Balancing Bytes and Books: Journey Beyond the Data! 📚</h1>
-  <p>🧙‍♂️ When I'm not diving into data or tinkering with algorithms, you can find me journeying through Middle Earth, dueling in the halls of Hogwarts, roaming the vast landscapes of Westeros, or venturing into galaxies far, far away.</p>
+  <p>🧙‍♂️ Certainly, here's a shorter version:
+
+"I have a deep passion for reading. When I'm not engrossed in data analysis and algorithm tinkering, you'll often find me with a book in hand, lost in the pages of captivating stories. Whether I'm exploring Middle Earth, Hogwarts, Westeros, or distant galaxies, reading is my escape and my greatest joy."</p>
   <p>🦅 As C.S. Lewis once said, "You can never get a cup of tea large enough or a book long enough to suit me."  
       Here's a little fun fact: If I could have a Patronus, it would be a phoenix, symbolizing rebirth from data insights!</p>
 </div>

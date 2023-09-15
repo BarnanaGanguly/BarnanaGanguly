@@ -20,11 +20,6 @@
 - **BSc in Economics @ Presidency University**
   - 🎓 Courses: Econometrics, Mathematics, Statistics, Microeconomics, Macroeconomics, and more!
 
-## 🛠️ Technical Skills
-
-- 💼 **Software**: MS Suite, Tableau
-- 💻 **Languages**: R, SQL, Python
-- 📜 **Certifications**: FRM Level 1
 
 ## 🔭 Experience
 

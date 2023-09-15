@@ -23,10 +23,10 @@
 
 ## 🔭 Experience
 
-- ![Uber Logo](Uber_Logo.png) **Uber** – Senior Regional Analytics Manager, Uber Eats APAC
-- ![Amex Logo](Amex_Logo.png) **American Express** – Assistant Manager, Loyalty Analytics
-- ![HDFC Logo](HDFC_Logo.png) **HDFC Bank** – Manager, Credit Analytics and Innovation
-- ![PwC Logo](PwC_Logo.png) **Pricewaterhouse Coopers (PwC)** US – Associate, Consulting
+- ![Uber Logo](https://github.com/BarnanaGanguly/BarnanaGanguly/blob/3f09cc480396e19b6b25cb7656a4e91a33ed5247/Uber_Logo.png) **Uber** – Senior Regional Analytics Manager, Uber Eats APAC
+- ![Amex Logo](https://github.com/BarnanaGanguly/BarnanaGanguly/blob/3f09cc480396e19b6b25cb7656a4e91a33ed5247/Amex_Logo.png) **American Express** – Assistant Manager, Loyalty Analytics
+- ![HDFC Logo](https://github.com/BarnanaGanguly/BarnanaGanguly/blob/3f09cc480396e19b6b25cb7656a4e91a33ed5247/HDFC_Logo.png) **HDFC Bank** – Manager, Credit Analytics and Innovation
+- ![PwC Logo](https://github.com/BarnanaGanguly/BarnanaGanguly/blob/d88f5445b911f4022f7e59118d0d709fb4601e22/PwC_Logo.png) **Pricewaterhouse Coopers (PwC)** US – Associate, Consulting
 
 
 📢 "I firmly believe in the power of data to make the world a better place, one decision at a time. Let's make magic with data! 🌟"

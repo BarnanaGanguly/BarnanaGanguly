@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-BarnanaGanguly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barnanaganguly/)](https://www.linkedin.com/in/barnanaganguly/)
 
 </div>
-
+May the code be with you! 🚀
 
 ## 🎓 Education
 
@@ -38,12 +38,11 @@
 </div>
 
 <div align="center">
-  <h1>📖 Balancing Bytes and Books: Journey Beyond the Data! 📚</h1>
-  <p>🧙‍♂️ Certainly, here's a shorter version:
+  <h1>📖 About Me 📚</h1>
+  
 
 "I have a deep passion for reading. When I'm not engrossed in data analysis and algorithm tinkering, you'll often find me with a book in hand, lost in the pages of captivating stories. Whether I'm exploring Middle Earth, Hogwarts, Westeros, or distant galaxies, reading is my escape and my greatest joy."</p>
-  <p>🦅 As C.S. Lewis once said, "You can never get a cup of tea large enough or a book long enough to suit me."  
-      Here's a little fun fact: If I could have a Patronus, it would be a phoenix, symbolizing rebirth from data insights!</p>
+  <p>🦅 As C.S. Lewis once said, "You can never get a cup of tea large enough or a book long enough to suit me."  </p>
 </div>
 
 ## 📚 Favorite Reads
@@ -54,5 +53,3 @@
 - **The Inheritance Cycle by Christopher Paolini:** "Live in the present, remember the past, and fear not the future."
 
 Feel free to connect with me if you want to chat about data analysis, algorithms, or even engage in a lively debate about who the strongest Jedi is!
-
-<p align="center">May the code be with you! 🚀</p>

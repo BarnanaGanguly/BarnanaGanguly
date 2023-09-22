@@ -5,7 +5,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-BarnanaGanguly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barnanaganguly/)](https://www.linkedin.com/in/barnanaganguly/)
 
 </div>
-May the code be with you! 🚀
 
 ## 🎓 Education
 
